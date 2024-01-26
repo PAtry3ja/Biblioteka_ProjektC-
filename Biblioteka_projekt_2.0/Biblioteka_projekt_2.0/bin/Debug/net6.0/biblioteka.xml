@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKsiazka xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ksiazka>
+    <AutorKsiazki>
+      <Imie>Anna</Imie>
+      <Nazwisko>Przykładowa</Nazwisko>
+    </AutorKsiazki>
+    <Tytul>Tytuł1</Tytul>
+    <Dostepnosc>true</Dostepnosc>
+    <NumerKsiazki>0001</NumerKsiazki>
+  </Ksiazka>
+  <Ksiazka>
+    <AutorKsiazki>
+      <Imie>Bogus</Imie>
+      <Nazwisko>Przykładowy</Nazwisko>
+    </AutorKsiazki>
+    <Tytul>Tytuł2</Tytul>
+    <Dostepnosc>true</Dostepnosc>
+    <NumerKsiazki>0002</NumerKsiazki>
+  </Ksiazka>
+  <Ksiazka>
+    <AutorKsiazki>
+      <Imie>Bogus</Imie>
+      <Nazwisko>Przykładowy</Nazwisko>
+    </AutorKsiazki>
+    <Tytul>Tytuł3</Tytul>
+    <Dostepnosc>true</Dostepnosc>
+    <NumerKsiazki>0003</NumerKsiazki>
+  </Ksiazka>
+</ArrayOfKsiazka>
